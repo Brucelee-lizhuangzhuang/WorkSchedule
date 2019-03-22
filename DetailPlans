@@ -26,6 +26,20 @@ https://blog.csdn.net/HK_5788/article/details/51509720?utm_source=blogxgwz20  gi
 完成：
 GitHub简单学习建立库，上传文件
 晚上帮陈豪把张芳的预备党员档案弄好交给赵老师，然后开了组会，主要讨论崔帅南做的自由视点切换库，师弟说了下6Dof
-C++第五章的尾巴结束，并找到了菜鸟教程，里面很丰富学习各种语言的教程
+C++第五章的尾巴结束，并找到了菜鸟教程看了前三章最基础安装测试的东西，里面很丰富学习各种语言的教程
 http://www.runoob.com/cplusplus/cpp-basic-syntax.html  ，计划先把这个C++的菜鸟教程看完
 http://www.runoob.com/
+
+
+
+2019.3.22 周五
+1，今天改的自己work1数据库下的epoch=100的GAN应该可以跑完，测试
+2，继续改进，有2个思路也是之前考虑过的，（1）按之前的想法直接继续做数据库然后用不同的GAN模型去测试效果
+（2）用视频序列做库，把掩模用Image Inpainting for Irregular Holes Using Partial Convolutions文章处理下或者直接设置损失函数，否则掩模就用不上了，
+重建掩模然后作为局部判别器那个肯定是不行的，因为是非规则区域
+3，继续看菜鸟教程，计划先把C++看完，然后看GIt，Markdown，Eclipse，今日任务把C++看到面向对象之前
+4，学习如何在GitHub架起博客
+http://rosesnow.top/   博客   https://blog.csdn.net/u012168038/article/details/77715439
+https://blog.csdn.net/qq_42672770/article/details/81277115
+5，晚上健身，前提是组会在明天
+6，继续看概率相关知识和习题 B站南瓜视频挺好的
